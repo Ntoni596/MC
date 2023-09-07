@@ -1,0 +1,17 @@
+Windows:
+1 - Run Install.bat
+2 - Accept eula.txt file (Open eula.txt and change eula=false to eula=true)
+3 - Configure server.properties
+4 - Run LaunchServer.bat
+5 - Enjoy
+
+Ram amount can be change at "MAX_RAM" in settings.bat 
+
+Linux
+1 - Run Install.sh
+2 - Accept eula.txt file (Open eula.txt and change eula=false to eula=true)
+3 - Configure server.properties
+4 - Run LaunchServer.sh
+5 - Enjoy
+
+Ram amount can be change at "MAX_RAM" in settings.sh 
